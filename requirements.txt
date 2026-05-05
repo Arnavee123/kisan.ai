@@ -1,0 +1,14 @@
+Django==4.2.7
+Pillow==10.1.0
+python-dotenv==1.0.0
+google-generativeai==0.3.2
+PyMuPDF==1.23.8
+opencv-python-headless==4.8.1.78
+numpy==1.26.2
+requests==2.31.0
+twilio==8.10.0
+web3==6.11.3
+py-solc-x==1.1.1
+eth-account==0.10.0
+reportlab==4.0.7
+djangorestframework==3.14.0
